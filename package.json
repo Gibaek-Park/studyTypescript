@@ -18,9 +18,15 @@
     "url": "https://github.com/Gibaek-Park/studyTypescript/issues"
   },
   "homepage": "https://github.com/Gibaek-Park/studyTypescript#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@types/chance": "^1.0.9",
     "@types/node": "^12.12.31",
+    "@types/ramda": "^0.27.0",
     "ts-node": "^8.8.1",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "chance": "^1.1.4",
+    "ramda": "^0.27.0"
   }
 }
