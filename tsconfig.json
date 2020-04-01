@@ -18,5 +18,5 @@
     
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
-  "include": ["src/**/*"] // src 디렉토리에 ts타입스크립트 소스파일이 존재 한다는 것을 알리기 위해
+  // "include": ["ch02-1/src/**/*"] // src 디렉토리에 ts타입스크립트 소스파일이 존재 한다는 것을 알리기 위해
 }
